@@ -1,0 +1,8 @@
+[package]
+name = "bitfinex-rust-ws2"
+version = "0.1.0"
+authors = ["James Little <alphafoobar@users.noreply.github.com>"]
+edition = "2018"
+
+[dependencies]
+bitfinex = { git = "https://github.com/alphafoobar/bitfinex-rs.git", rev = "dddafcc" }
